@@ -1,0 +1,14 @@
+name: emis-v-conc
+channels:
+  - chrisroadmap
+  - conda-forge
+dependencies:
+  - fair
+  - jupyter
+  - matplotlib
+  - nbstripout
+  - numpy
+  - pandas
+  - pooch
+  - tqdm
+  - xarray
